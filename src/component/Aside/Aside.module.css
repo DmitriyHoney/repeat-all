@@ -1,0 +1,16 @@
+.section {
+    padding: 25px;
+    background-color: lightskyblue;
+    width: 15%;
+}
+
+.item a {
+    color: #fff;
+    font-size: 18px;
+}
+
+.item a:hover {
+    text-decoration: underline;
+}
+
+

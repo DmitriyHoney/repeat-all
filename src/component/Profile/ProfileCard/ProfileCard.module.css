@@ -1,0 +1,18 @@
+.cardWrap {
+
+}
+
+.avatar {
+     width: 100px;
+     height: 100px;
+     margin-right: 15px;
+ }
+
+.info {
+    display: flex;
+    align-items: center;
+}
+
+.social {
+    display: block;
+}

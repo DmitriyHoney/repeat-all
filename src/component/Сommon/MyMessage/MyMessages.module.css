@@ -1,0 +1,9 @@
+.wrapMessage {
+    background-color: #69b1ff;
+    padding: 25px;
+    border-radius: 3px;
+    color: #fff;
+    margin-left: auto;
+    margin-right: -25px;
+    max-width: 350px;
+}

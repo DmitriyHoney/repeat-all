@@ -1,0 +1,19 @@
+.friendChatWrap {
+    margin: 20px 0px;
+}
+
+.friendChatWrap:first-child {
+    margin: 0px 0px;
+}
+
+.section {
+    width: 30%;
+    height: 380px;
+    padding: 15px 15px;
+    background-color: lightskyblue;
+    overflow-y: scroll;
+}
+
+.active {
+    background-color: red;
+}

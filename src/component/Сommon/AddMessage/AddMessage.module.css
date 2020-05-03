@@ -1,0 +1,15 @@
+.section {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.textarea {
+    width: 55%;
+    resize: none;
+    border-radius: 5px;
+    margin-right: 25px;
+    padding: 5px;
+}

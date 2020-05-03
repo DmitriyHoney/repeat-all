@@ -1,0 +1,12 @@
+.section {
+    background-color: coral;
+    padding: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    color: #fff;
+    font-size: 20px;
+}

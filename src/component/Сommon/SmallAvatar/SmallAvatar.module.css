@@ -1,0 +1,25 @@
+.wrap {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    color: #000;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin-right: 25px;
+}
+
+.postTime {
+    color: #ccc;
+    margin-top: 5px;
+}
+
+.active {
+    background-color: cornflowerblue;
+    color: #fff;
+}

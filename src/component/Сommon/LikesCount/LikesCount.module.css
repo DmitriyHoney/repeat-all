@@ -1,0 +1,7 @@
+.likeBtn:hover {
+    color: red;
+}
+
+.likeBtn:hover {
+    cursor: pointer;
+}

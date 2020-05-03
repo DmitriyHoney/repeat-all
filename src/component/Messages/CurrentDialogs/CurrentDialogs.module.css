@@ -1,0 +1,5 @@
+.section {
+    width: 55%;
+    height: 380px;
+    overflow-y: scroll;
+}
